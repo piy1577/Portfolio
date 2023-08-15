@@ -1,5 +1,17 @@
+This is my Portfolio code.
 
-![Thumbnail Video Tutorial](https://github.com/wass08/r3f-portfolio-responsive/assets/6551176/bf148f55-e6ba-46c4-b53d-9f93e1d1f99f)
+To run the code you should have yarn installed in your pc
 
-[Video tutorial](https://youtube.com/@WawaSensei)
+to install yarn, run this on your terminal.
 
+`npm i --global yarn`
+
+Now to install the packages, run:
+
+`yarn`
+
+this will install all the dependencies, to run the code, run
+
+`yarn dev`
+
+this will run the server on port 5173, you can visit http://localhost:5173
